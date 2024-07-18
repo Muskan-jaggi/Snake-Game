@@ -15,5 +15,7 @@ Implementation: Developed with Python's turtle module for graphics and user inte
 
 How to Play:
 -Clone the repository and execute the Python script.
+
 -Use arrow keys to maneuver the snake.
+
 -Enjoy the classic gaming experience!
