@@ -4,11 +4,14 @@ Experience the classic Snake Game recreated in Python using the Turtle graphics 
 Features:
 
 Intuitive Controls: Use arrow keys to guide the snake's movement.
+
 Dynamic Scoring: Earn points by consuming food items, with the snake lengthening after each meal.
+
 Collision Detection: Prevent crashes into walls or the snake's own body.
+
 Persistent High Score: Utilizes file system to save and display the highest score achieved across sessions.
-Implementation: Developed with Python's turtle module for graphics and user interaction.
-High score updates automatically saved and retrieved from the file system.
+
+Implementation: Developed with Python's turtle module for graphics and user interaction. High score updates automatically saved and retrieved from the file system.
 
 How to Play:
 Clone the repository and execute the Python script.
