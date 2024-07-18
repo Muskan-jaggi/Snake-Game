@@ -14,6 +14,6 @@ Persistent High Score: Utilizes file system to save and display the highest scor
 Implementation: Developed with Python's turtle module for graphics and user interaction. High score updates automatically saved and retrieved from the file system.
 
 How to Play:
-Clone the repository and execute the Python script.
-Use arrow keys to maneuver the snake.
-Enjoy the classic gaming experience!
+-Clone the repository and execute the Python script.
+-Use arrow keys to maneuver the snake.
+-Enjoy the classic gaming experience!
